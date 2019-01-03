@@ -1,0 +1,14 @@
+{
+  "name": "react-express",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "index.ejs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
